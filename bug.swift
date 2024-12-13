@@ -1,0 +1,1 @@
+let someVar = someArray[index] // where index is out of bounds
