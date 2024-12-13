@@ -1,0 +1,1 @@
+This repository demonstrates a common Swift error: an index out of range error. The `bug.swift` file contains code that attempts to access an array element using an invalid index. The `bugSolution.swift` file provides a corrected version.
